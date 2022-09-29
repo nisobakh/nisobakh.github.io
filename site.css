@@ -1,0 +1,49 @@
+body {
+    background: #f2e8be;
+    font-family: "Trirong", serif;
+}
+.blurb h2 {
+   color: #4d4a0b;
+   font-weight: 100;
+   font-size: 2.5rem;
+}
+.blurb p {
+    color: #B68D40;
+    font-weight: 100;
+    font-size: 1.125rem;
+    line-height: 2;
+}
+.content {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+/* What everything in the navigation bar should have:*/
+#onlyNavbar {
+    font-size: 1.5rem;
+    font-weight: 100;    
+}
+#onlyNavbar .nav-link {
+    color: rgb(252, 194, 194);
+}
+/*Change the text color when hovering over it*/
+#onlyNavbar .nav-link:hover {
+    color: #F4EBD0;
+}
+#onlyNavbar .navbar-brand {
+    color: #00bcbf;
+    font-size: 1.5rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
